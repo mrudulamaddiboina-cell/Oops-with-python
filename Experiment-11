@@ -1,0 +1,13 @@
+class father:
+    def handsome(self):
+        print("father is handsome")
+class mother:
+    def beautiful(self):
+        print("mother is beautiful")
+class child:
+    def genetics(self):
+        print("child genetics")
+c=child()
+c.handsome()
+c.beautiful()
+c.genetics()
