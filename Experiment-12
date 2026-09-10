@@ -1,0 +1,13 @@
+class college:
+    def name(self):
+        print("college name")
+class branch-1:
+    def CSE(self):
+        print("branch CSE")
+class branch-2:
+    def ECE(self):
+        print("branch ECE")
+b=branch()
+b.name()
+b.branch-1
+b.branch-2
